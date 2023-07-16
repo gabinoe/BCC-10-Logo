@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Logo Generator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Logo Generator</h1>
+    <label for="text-input">Text:</label>
+    <input type="text" id="text-input" maxlength="3" />
+
+    <label for="text-color">Text Color:</label>
+    <input type="text" id="text-color" />
+
+    <label for="shape">Shape:</label>
+    <select id="shape">
+      <option value="circle">Circle</option>
+      <option value="triangle">Triangle</option>
+      <option value="square">Square</option>
+    </select>
+
+    <label for="shape-color">Shape Color:</label>
+    <input type="text" id="shape-color" />
+
+    <button id="generate-btn">Generate Logo</button>
+
+    <div id="output"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
