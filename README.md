@@ -40,3 +40,8 @@ This application is developed by [Gabino E] as a challenge project.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## LINKS
+
+- repo: https://github.com/gabinoe/BCC-10-Logo
+- pages: https://gabinoe.github.io/BCC-10-Logo
